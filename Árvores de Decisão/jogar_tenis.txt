@@ -1,0 +1,15 @@
+Aparencia,Temperatura,Umidade,Ventando,JogouTenis
+ensolarado,quente,alta,fraco,não
+ensolarado,quente,alta,forte,não
+nublado,quente,alta,fraco,sim
+chuvoso,agradavel,alta,fraco,sim
+chuvoso,frio,normal,fraco,sim
+chuvoso,frio,normal,forte,não
+nublado,frio,normal,forte,sim
+ensolarado,agradavel,alta,fraco,não
+ensolarado,frio,normal,fraco,sim
+chuvoso,agradavel,normal,fraco,sim
+ensolarado,agradavel,normal,forte,sim
+nublado,agradavel,alta,forte,sim
+nublado,quente,normal,fraco,sim
+chuvoso,agradavel,alta,forte,não
